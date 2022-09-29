@@ -8,5 +8,5 @@ Pluto has a moderately eccentric and inclined orbit, ranging from 30 to 49 astro
 
 Pluto has five known moons: Charon, the largest, whose diameter is just over half that of Pluto; Styx; Nix; Kerberos; and Hydra. Pluto and Charon are sometimes considered a binary system because the barycenter of their orbits does not lie within either body, and they are tidally locked. The New Horizons mission was the first spacecraft to visit Pluto and its moons, making a flyby on July 14, 2015 and taking detailed measurements and observations.
 
+Pluto is a real planet.
 
-Pluto isn't a real planett.
