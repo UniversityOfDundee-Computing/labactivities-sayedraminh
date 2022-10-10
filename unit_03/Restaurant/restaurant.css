@@ -1,0 +1,32 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Pacifico&display=swap');
+
+  body{
+    background-color: rgb(204, 131, 41);
+    max-width: 850px;
+    margin: auto;
+    padding: auto;
+  }
+  .main{
+    background-color: azure;
+    text-align: center;
+    border-radius: 30%;
+    padding: 15px;
+  
+  }
+  h1{
+    font-family: 'Black Ops One', cursive;
+    color: rgb(16, 83, 61);
+  }
+
+  h2{
+    font-family: 'Pacifico', cursive;
+    font: weight 250px;
+    color: rgb(16, 16, 90);
+  }
+ p{
+  font-style: italic;
+  font-size: larger;
+  text-decoration: solid;
+ }
