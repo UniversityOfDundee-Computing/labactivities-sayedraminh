@@ -54,7 +54,11 @@ $( "#selectable" ).selectable()
 $(".ui-widget-content").click( function() {
    $("#onee").toggleClass("ui-selected");
 }); 
-$( "#selectable" ).on( "selectableselected", function( event, ui ) {
-   
-} );
+
+$( "#selectable" ).selectable()
+$(".ui-selected").click( function() {
+   let v = $("#onee").value();
+   console.log(v);
+   $("#billamt").html(v) ;
+}); 
  
